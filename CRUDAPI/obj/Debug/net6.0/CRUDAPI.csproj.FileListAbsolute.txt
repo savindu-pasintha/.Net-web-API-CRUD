@@ -1,0 +1,54 @@
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.exe
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.deps.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.runtimeconfig.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.pdb
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.AssemblyReference.cache
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.AssemblyInfoInputs.cache
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.AssemblyInfo.cs
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\scopedcss\bundle\CRUDAPI.styles.css
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.CopyComplete
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\refint\CRUDAPI.dll
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.pdb
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.genruntimeconfig.cache
+C:\Users\nethm\source\repos\CRUDAPI\CRUDAPI\obj\Debug\net6.0\ref\CRUDAPI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.exe
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.deps.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.runtimeconfig.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\ref\CRUDAPI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\CRUDAPI.pdb
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.AssemblyReference.cache
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.AssemblyInfoInputs.cache
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.AssemblyInfo.cs
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\scopedcss\bundle\CRUDAPI.styles.css
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.csproj.CopyComplete
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\ref\CRUDAPI.dll
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.pdb
+C:\Users\savindu pasintha\Downloads\CRUDAPI\CRUDAPI\obj\Debug\net6.0\CRUDAPI.genruntimeconfig.cache
